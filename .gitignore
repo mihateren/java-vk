@@ -1,0 +1,20 @@
+# Compiled class files
+out/
+
+# Command history file
+commands.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Java build tools (not used but for completeness)
+target/
+build/
+*.class
